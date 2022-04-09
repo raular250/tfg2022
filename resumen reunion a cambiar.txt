@@ -1,0 +1,17 @@
+mirar entre idiomas latinos como se comporta
+comparado con ingles-español
+
+1a semana
+buscar ejemplos rnn y comparar con transformers
+
+2a semana
+comparar google colab, amazon, kaggle...
+
+datasets y métricas avanzar junto al proyecto (ir haciendo pruebas a medidas k avanza el proyecto)
+
+holdout cross validation...
+sobre k datasets (pequeños, 2 distintos uno grande y otro pequeño para ver k tal, ingles-aleman/español-frances...)
+
+Sacar las métricas antes
+
+Ir haciendo fotos y guardar resultados a medida que hago iteraciones

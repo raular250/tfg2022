@@ -1,0 +1,7 @@
+interpretar el funcionamiento
+en uno entenado, que datos de entrada necesito, que valores edito etc.
+principalmente, como se usa
+
+mirar de hacer fine tunning (entrenar a oartir de un modelo preentrenado un caso mñas especifico)
+
+No centrarme en rendimiento y como afectan los valores sino en k hacen cada uno y que significan (que hacen al editar sus valores)
